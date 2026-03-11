@@ -8,7 +8,7 @@
 <p>
 Olá, eu sou a Suélen (pode me chamar de Sue)! 👋
 
-Tenho uma conexão natural com tecnologia e estou em transição de carreira para a área de desenvolvimento e DevOps.
+Tenho uma conexão natural com tecnologia e estou em transição de carreira para a área de desenvolvimento.
 
 - 🌱 Atualmente estudando autodidata Python, SQL, fundamentos de automação e conceitos iniciais de Cloud (AWS) e Gen AI.  
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS), buscando integrar minhas experiências prévias com novas habilidades técnicas.  
