@@ -37,11 +37,11 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e c
 <div align="left">
   <img src="https://github.com/user-attachments/assets/44669620-5510-4341-bfd4-15366b4c3aac" height="40" alt="pyhon logo"/>
   <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/2ca51c5f-0769-423e-a8c0-257651527ad3" height="40" alt="sql logo />
+  <img src="https://github.com/user-attachments/assets/2ca51c5f-0769-423e-a8c0-257651527ad3" height="40" alt="sql logo"/>
   <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/48dc31b2-cd62-4392-847c-2da739220cf8" height="40" alt="ai logo />
+  <img src="https://github.com/user-attachments/assets/48dc31b2-cd62-4392-847c-2da739220cf8" height="40" alt="ai logo"/>
   <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/4b1dc6f0-b80b-4130-8c31-5854d044e532" height="43" alt="cloud logo />
+  <img src="https://github.com/user-attachments/assets/4b1dc6f0-b80b-4130-8c31-5854d044e532" height="43" alt="cloud logo"/>
   <img width="12"/>
 
 </div>
