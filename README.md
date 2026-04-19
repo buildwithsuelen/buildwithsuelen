@@ -10,7 +10,7 @@ Olá, eu sou a Suélen (pode me chamar de Sue)! 👋
 
 Tenho uma conexão natural com tecnologia e estou em transição de carreira para a área de desenvolvimento.
 
-- 🌱 Atualmente estudando autodidata Python, SQL, fundamentos de automação e conceitos iniciais de Cloud (AWS) e Gen AI.  
+- 🌱 Atualmente estudando autodidata Python, SQL, fundamentos de dados, automação e conceitos iniciais de Cloud (AWS) e Gen AI.  
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS), buscando integrar minhas experiências prévias com novas habilidades técnicas.  
 - 🔧 Desenvolvendo pequenos projetos e scripts práticos para consolidar aprendizado e aplicar conceitos de programação, automação e infraestrutura.  
 
@@ -35,7 +35,7 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e c
   <div style="flex-basis: 48%;">
   
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/44669620-5510-4341-bfd4-15366b4c3aac" height="40" alt="pyhon logo"/>
+  <img src="https://github.com/user-attachments/assets/22069c2d-0e2f-49bc-98c6-3978297976d6" height="40" alt="pyhon logo"/>
   <img width="12"/>
   <img src="https://github.com/user-attachments/assets/2ca51c5f-0769-423e-a8c0-257651527ad3" height="40" alt="sql logo"/>
   <img width="12"/>
