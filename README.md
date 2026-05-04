@@ -26,15 +26,13 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e c
   <div style="flex-basis: 48%;">
   
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/22069c2d-0e2f-49bc-98c6-3978297976d6" height="40" alt="pyhon logo"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="pyhon logo"/>
   <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/2ca51c5f-0769-423e-a8c0-257651527ad3" height="40" alt="sql logo"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" height="40" alt="sql logo"/>
   <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/48dc31b2-cd62-4392-847c-2da739220cf8" height="40" alt="ai logo"/>
+  <img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=icloud&logoColor=white" height="40" alt="cloud logo"/>
   <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/4b1dc6f0-b80b-4130-8c31-5854d044e532" height="43" alt="cloud logo"/>
-  <img width="12"/>
-
+  <img src="https://img.shields.io/badge/Gen%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="ai logo"/>
 </div>
 
 
@@ -45,7 +43,7 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e c
 <!-- Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/suelensouzaguiar/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:suelen.sdeaguiar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
