@@ -19,18 +19,9 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e c
 
 </p>
 
-## Contato:
-<!-- Links -->
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelensouzaguiar/)
-
-
-<!-- GithubEstatísticas 
-![Sue GitHub Estatística](https://github-readme-stats.vercel.app/api?username=suelen-souzaa&show_icons=true&theme=slateorangen&iclude_all_commits=true&locale=pt-br) -->
-
-
-
-## Linguagens & Tecnologias que estou aprendendo:
+### 🛠️ Linguagens e Tecnologias:
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
   
@@ -46,8 +37,24 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e c
 
 </div>
 
-<!-- Portfólio -->
-## Portfólio:
-- atualizações em breve...
-  
-![cattech](https://github.com/user-attachments/assets/b0c22bac-7a48-46c9-afb5-9365e0adcdd8)
+
+---
+
+
+### 📫 Vamos nos conectar?
+<!-- Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/suelensouzaguiar/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:suelen.sdeaguiar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b0c22bac-7a48-46c9-afb5-9365e0adcdd8" />
+</div>
+
