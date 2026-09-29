@@ -6,16 +6,21 @@
 
 <!-- Presentation -->
 <p>
-Olá, eu sou a Suélen (pode me chamar de Sue)! 👋
+Olá, eu sou a Suélen!👋 <br>
+Sou graduanda em Análise e Desenvolvimento de Sistemas (ADS) e estou direcionando minha carreira para Monitoramento, Cloud Ops e DevOps. <br>
+Atualmente, venho desenvolvendo conhecimentos em:
 
-Estou em transição de carreira para a área de desenvolvimento:
+ ☁️ Cloud Computing — AWS e Google Cloud <br>
+ 🐧 Linux <br>
+ 🐍 Python <br>
+ 🗄️ SQL <br>
+ 🔧 Git & GitHub <br>
+ ⚙️ Automação <br>
+ 📊 Monitoramento e observabilidade <br>
+ 🚀 Fundamentos de DevOps <br>
 
-- 🌱 Atualmente estudando Python, SQL, fundamentos de dados, automação e conceitos iniciais de Cloud (AWS) e Gen AI.  
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS), buscando integrar minhas experiências prévias com novas habilidades técnicas.  
-- 🔧 Desenvolvendo pequenos projetos e scripts práticos para consolidar aprendizado e aplicar conceitos de programação, automação e infraestrutura.  
-
-Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e contribuir com soluções inovadoras em ambientes digitais.
-<p>Estou atualizando meu GitHub com projetos e aprendizados dessa jornada. Fique à vontade para acompanhar meu progresso!
+Meu objetivo é construir uma carreira trabalhando cada vez mais próximo de infraestrutura, Cloud e operações, com foco em ambientes estáveis, monitorados e automatizados.
+<p>Ainda estou no processo de construção dessas habilidades e este GitHub é justamente onde estou registrando parte dessa evolução.
 
 </p>
 
@@ -29,6 +34,8 @@ Meu foco é evoluir tecnicamente, aprender boas práticas de desenvolvimento e c
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="pyhon logo"/>
   <img width="12"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" height="40" alt="sql logo"/>
+  <img width="12"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="linux logo"/>
   <img width="12"/>
   <img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=icloud&logoColor=white" height="40" alt="cloud logo"/>
   <img width="12"/>
